@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil V Nair</h1>
 <h3 align="center">I'm a passionate Freelance Data Analyst based in India, specializing in transforming raw data into actionable insights. With expertise in SQL, Python, Power BI, and Excel, I develop dashboards, automate reports, and perform trend analysis to drive informed decision-making. When I'm not diving into data, you can find me exploring new technologies, engaging in self-directed learning, or simulating real-world business intelligence scenarios to enhance my skills.</h3>
 
-<img align="right" alt="Coding" width="430" src="https://github.com/nikhilvnair/nikhilvnair/blob/main/programming_gif.gif">
+<img align="right" alt="Coding" width="410" src="https://github.com/nikhilvnair/nikhilvnair/blob/main/programming_gif.gif">
 
 - 🌱 I’m currently learning **Advanced Data Visualization, Predictive Analytics & Business Intelligence Tools**
 
