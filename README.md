@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="440" src="https://github.com/nikhilvnair/nikhilvnair/blob/main/programming_gif.gif">
 
-- 🌱 I’m currently learning **Advanced Data Visualization,Predictive Analytics & Business Intelligence Tools**
+- 🌱 I’m currently learning **Advanced Data Visualization, Predictive Analytics & Business Intelligence Tools**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/nikhilvnair)
 
